@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 from datetime import datetime, timedelta
 import time
-import vk
 import requests
 import random
 import sys
